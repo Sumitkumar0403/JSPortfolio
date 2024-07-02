@@ -34,9 +34,9 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
+  "Web development",
   "Mobile user interfaces",
-  "Graphic design",
+  "Reponsive Design",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a passionate web developer eager to contribute technical expertise in front-end and back-end development. Seeking a dynamic role to innovate and create impactful web solutions.";
 
 const About = () => {
   return (
